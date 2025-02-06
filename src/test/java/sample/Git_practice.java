@@ -8,6 +8,7 @@ public class Git_practice {
 	public void test()
 	{
 		System.out.println("git practice");
+		System.out.println("github started");
 	}
 
 }
